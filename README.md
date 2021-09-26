@@ -27,7 +27,8 @@ Per the assignment, the script runs as requested.
 ## Result Illustrations
 
 ### Stock Data (2014)
-
+<img width="468" alt="StockData_Image 2014" src="https://user-images.githubusercontent.com/89491352/134793087-4cd8a2b2-9053-4dab-88d3-cf8ac4829c57.png">
 ### Stock Data (2015)
-
+<img width="468" alt="StockData_Image 2015" src="https://user-images.githubusercontent.com/89491352/134793115-cc93f3d3-756e-4797-8f1c-a8c4b17cd899.png">
 ### Stock Data (2016)
+<img width="468" alt="StockData_Image 2016" src="https://user-images.githubusercontent.com/89491352/134793121-a0223970-dc79-4f56-a8cc-4ec356f931ad.png">
